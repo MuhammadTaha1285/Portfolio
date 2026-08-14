@@ -1,6 +1,4 @@
 # This is my Personal Portfolio
-# Fully Stack Portfolio
-# Now You See This Portfolio Pictures
 <img width="869" height="399" alt="1" src="https://github.com/user-attachments/assets/ba3a9e36-e2f6-41df-b526-887a705d0004" />
 <img width="850" height="201" alt="2" src="https://github.com/user-attachments/assets/7665a9bb-e60b-4d7b-ae1f-012bd52745f9" />
 <img width="821" height="319" alt="3" src="https://github.com/user-attachments/assets/3d509a2f-347e-46ae-b795-74dba10baf67" />
